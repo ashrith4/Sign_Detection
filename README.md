@@ -3,9 +3,13 @@ This project implements real-time sign language detection using machine learning
 
 Features
 ✅ Real-time sign recognition using a webcam
+
 ✅ Deep learning model for gesture classification
+
 ✅ Hand tracking with MediaPipe
+
 ✅ Bounding box visualization for detected signs
+
 ✅ User-friendly interface for live detection
 
 Tech Stack
